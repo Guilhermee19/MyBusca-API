@@ -1,0 +1,51 @@
+[
+    { 
+        "id": 0,
+        "title": "Instagram", 
+        "link":  "https://www.instagram.com/manussrocha/", 
+        "color": "#9147ff", 
+        "image": "../../../assets/imagens/icon-instagram.png" 
+    },
+    { 
+        "id": 1,
+        "title": "WhatsApp", 
+        "link":  "https://wa.me/+5521991070129", 
+        "color": "#25D366", 
+        "image": "../../../assets/imagens/icon-whatsapp.png" 
+    },
+    { 
+        "id": 2,
+        "title": "Espaço Natura", 
+        "link":  "https://www.natura.com.br/consultoria/manoelinarocha", 
+        "color": "#EF671D", 
+        "image": "../../../assets/imagens/icon-natura.png" 
+    },
+    { 
+        "id": 3,
+        "title": "Loja Avon", 
+        "link":  "https://manoelinarocha.loja.avon.com.br", 
+        "color": "#000000", 
+        "image": "../../../assets/imagens/icon-avon.png" 
+    },
+    { 
+        "id": 4,
+        "title": "Revista Natura - Ciclo 12", 
+        "link":  "https://natura.com.vc/12_brasil-bm6vo", 
+        "color": "#274F4E", 
+        "image": null 
+    },
+    { 
+        "id": 5,
+        "title": "Revista Avon - Campanha 16", 
+        "link":  "https://conecta.avon.com.br/revista/?campanha=16&ano=2021&representante=77926126", 
+        "color": "#FE238E", 
+        "image": null 
+    },
+    { 
+        "id": 7,
+        "title": "Revista Boticário - Ciclo 11", 
+        "link":  "https://catalogodigital.boticario.com.br/cosen-modo-revista/?utm_source=mcd&utm_medium=rocha-manu", 
+        "color": "#E25B69", 
+        "image": null 
+    }
+]
